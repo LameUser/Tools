@@ -37,7 +37,7 @@ The `split_ids_and_save` function performs the following tasks:
    ```python
    input_file = "D:\\Desktop\\TelegramID\\Telegram_IDs.txt"
    output_file = "D:\\Desktop\\TelegramID\\Tele_output.txt"
-
+   ```
 ## Run the Script:
 --------------
 Use this command to run the script
