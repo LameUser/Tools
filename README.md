@@ -45,15 +45,17 @@ Repository Structure:
 How to Use:
 -----------
 1. Clone the repository:
-` git clone https://github.com/LameUser/Tools.git cd Tools `
+```
+git clone https://github.com/LameUser/Tools.git cd Tools
+```
 
 2. Each folder contains specific scripts with **README.txt** files providing instructions on how to use them.
 
 3. Install required dependencies using:
-` pip install -r requirements.txt `
+``` pip install -r requirements.txt ```
 *(Note: Some scripts might have additional dependencies mentioned in their respective README files.)*
 
-4. Navigate to the required directory and run the scripts as instructed.
+5. Navigate to the required directory and run the scripts as instructed.
 
 ----------------------------------------
 
