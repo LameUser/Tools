@@ -8,7 +8,7 @@ This repository contains multiple Python scripts and tools categorized into diff
 Repository Structure:
 ---------------------
 
-📂 **CODING (Main Repository)**
+📂 **Tools (Main Repository)**
 │  
 ├── 📂 **break_id**  
 │   ├── 📝 break_id.py  → Script for breaking or extracting IDs.  
@@ -45,3 +45,44 @@ Repository Structure:
 How to Use:
 -----------
 1. Clone the repository:
+` git clone https://github.com/LameUser/Tools.git cd Tools `
+
+2. Each folder contains specific scripts with **README.txt** files providing instructions on how to use them.
+
+3. Install required dependencies using:
+` pip install -r requirements.txt `
+*(Note: Some scripts might have additional dependencies mentioned in their respective README files.)*
+
+4. Navigate to the required directory and run the scripts as instructed.
+
+----------------------------------------
+
+Contributions:
+--------------
+- Fork the repository.
+- Create a new branch (`feature-branch`).
+- Commit your changes and push to GitHub.
+- Open a Pull Request.
+
+----------------------------------------
+
+Author:
+-------
+- LameUser
+- GitHub: https://github.com/LameUser
+
+----------------------------------------
+
+License:
+--------
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it.
+
+----------------------------------------
+
+Let me know if you need any modifications or additional details! 🚀
+
+
+
+
+
+
